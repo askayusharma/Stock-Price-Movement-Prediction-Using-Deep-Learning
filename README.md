@@ -1,0 +1,1 @@
+[![Continuous Integration (CI)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml/badge.svg)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml)
