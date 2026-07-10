@@ -1,5 +1,7 @@
 # Stock Price Movement Prediction Using Deep Learning
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://stock-price-movement-prediction-using-deep-learning.streamlit.app/)
+
 [![Continuous Integration (CI)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml/badge.svg)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml)
 
 ## 📌 Project Overview
