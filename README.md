@@ -1,6 +1,22 @@
-# Stock Price Movement Prediction Using Deep Learning
+<div align="center">
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://stock-price-movement-prediction-using-deep-learning.streamlit.app/)
+# 📈 Stock Price Movement Prediction System
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM%20%7C%20Neural%20Networks-purple?style=for-the-badge)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
+
+**A deep learning-based financial forecasting application that predicts stock price movements using historical market data and advanced time-series modeling techniques.**
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://stock-price-movement-prediction-using-deep-learning.streamlit.app/) · [Report Bug](#) · [Request Feature](#)
+
+</div>
+
+---
+
+
+# Stock Price Movement Prediction Using Deep Learning
 
 [![Continuous Integration (CI)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml/badge.svg)](https://github.com/askayusharma/Stock-Price-Movement-Prediction-Using-Deep-Learning/actions/workflows/python-ci.yml)
 
