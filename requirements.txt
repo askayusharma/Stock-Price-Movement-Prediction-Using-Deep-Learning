@@ -1,3 +1,9 @@
-statsmodels
+pandas
+numpy
 pmdarima
+statsmodels
+torch
+scikit-learn
 prophet
+streamlit
+plotly
