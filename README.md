@@ -9,8 +9,7 @@
 
 **A deep learning-based financial forecasting application that predicts stock price movements using historical market data and advanced time-series modeling techniques.**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://stock-price-movement-prediction-using-deep-learning.streamlit.app/) ·
-
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://stock-price-movement-prediction-using-deep-learning.streamlit.app/) 
 </div>
 
 ---
